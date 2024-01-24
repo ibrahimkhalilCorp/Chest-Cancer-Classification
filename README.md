@@ -30,7 +30,7 @@
 
 MLFLOW_TRACKING_URI=https://dagshub.com/ibrahimkhalilCorp/Chest-Cancer-Classification.mlflow \
 MLFLOW_TRACKING_USERNAME=ibrahimkhalilCorp \
-MLFLOW_TRACKING_PASSWORD=be68b050c5c7424f2ae3ba600193ab4c9bf500a3 \
+MLFLOW_TRACKING_PASSWORD=19e5520ef8c6cad7f958bace3cb47dd5b6b98f98 \
 python script.py
 
 Run this to export as env variables:
@@ -41,7 +41,7 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/ibrahimkhalilCorp/Chest-Cancer-Cl
 
 export MLFLOW_TRACKING_USERNAME=ibrahimkhalilCorp 
 
-export MLFLOW_TRACKING_PASSWORD=be68b050c5c7424f2ae3ba600193ab4c9bf500a3
+export MLFLOW_TRACKING_PASSWORD=19e5520ef8c6cad7f958bace3cb47dd5b6b98f98
 
 ```
 

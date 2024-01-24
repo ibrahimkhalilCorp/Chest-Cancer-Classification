@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ibrah/Documents/Data%20Science%20and%20ML/Practice%20Files/DataAnalysis/Git%20Folder/Chest%20Cancer%20Classification/Chest-Cancer-Classification/mlruns/0/aed606ec5f7e4045a0245a795fda0ff4/artifacts
+end_time: 1706067612591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aed606ec5f7e4045a0245a795fda0ff4
+run_name: blushing-snail-987
+run_uuid: aed606ec5f7e4045a0245a795fda0ff4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706067601116
+status: 3
+tags: []
+user_id: ibrah

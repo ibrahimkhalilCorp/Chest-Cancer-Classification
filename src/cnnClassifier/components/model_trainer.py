@@ -66,6 +66,7 @@ class Training:
     @staticmethod
     def save_model(path: Path, model: tf.keras.Model):
         model.save(path)
+        # model.save(os.path.join("model", "model.h5"))
 
 
 
